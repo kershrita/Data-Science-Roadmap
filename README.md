@@ -11,9 +11,9 @@
 Strongly recommend that students have experience with `Python`, ideally some background of `machine learning`, in `probability and statistics`, and `linear algebra`.
 
 If you do not have a background in these areas, take some resources to learn:
-- Python:
-- Probability and Statistics:
-- Linear Algebra:
+- Python: ...
+- Probability and Statistics: ...
+- Linear Algebra: ...
 
 ## Learning Objectives
 
@@ -65,13 +65,39 @@ After taking this course, you should:
 
 ## Plan Outline
 
-### Week 1
-### Week 2
+### Week 1: Introduction to Data Science and Data Collection
+- **Session 1**: Introduction to Data Science
+  - Overview of data science as a field.
+  - The data science pipeline and its stages.
+  - Basic concepts, key terms (data, wrangling..).
+
+- **Session 2**: Retrieving data from spreadsheets and exploring it using Pandas
+  - Introduction to data collection.
+  - Basic data exploration and initial insights from the data.
+  - Hands-on exercise: Retrieve data from spreadsheets CSV with data exploration using Pandas.
+  - Assignment: ...
+
+### Week 2: Advanced Data Collection and Data Pre-processing
+- **Session 3**: Retrieving Data from Databases
+  - Retrieving data from SQL databases using Python and libraries like sqlite.
+  - Retrieving data from NoSQL databases like MongoDB using Python.
+  - Comparison of database retrieval techniques.
+
+- **Session 2**: Data Cleaning and Handling Missing Values
+  - The importance of data cleaning and handling missing data.
+  - Techniques for handling missing values.
+  - Hands-on exercise: Cleaning and preprocessing data using Pandas.
+  - Assignment: ...
 ### Week 3
+
 ### Week 4
+
 ### Week 5
+
 ### Week 6
+
 ### Week 7
+
 ### Week 8
 
 ## Feedback
