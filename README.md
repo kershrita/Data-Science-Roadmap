@@ -79,38 +79,41 @@ After taking this course, you should:
   - Basic plots for visalizations to gain insights about data.
   - Assignment: Statistics questions sheet.
 
-### Week 2: Data Collection and Data Pre-processing
-- **Session 3**: Retriev & Explore Data from Databases
+### Week 2: Data Collection, Data Pre-processing, and EDA
+- **Session 3**: Retrieve & Explore Data from Databases
   - Introduction to data collection.
   - Retrieving data from SQL databases using Python and libraries like sqlite.
   - Basic data exploration and initial insights from the data using Pandas.
   - Basic data visualization using matplotlib.
   - Hands-on exercise: Retrieve data from spreadsheets CSV & SQL database with data exploration using Pandas.
-  - Assignment: Practice data retrieval from SQL database.
+  - Assignment: Practice example with SQL.
 
 - **Session 4**: Data Cleaning and Handling Missing Values
   - Retrieving data from NoSQL databases like MongoDB using Python.
-  - Comparison of database retrieval techniques.
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values.
   - Basic data visualization using matplotlib (cont).
   - Hands-on exercise: Retrieve data from NoSQL database with handling missing data.
-  - Assignment: Practice data retrieval from NoSQL database.
+  - Assignment: Practice example with NoSQL.
 
-### Week 3: Data Pre-processing and Web Scrapping
-- **Session 5**: Data Pre-processing - Feature Selection and Encoding
+### Week 3: Data Collection, Data Pre-processing, and EDA
+- **Session 5**: Data Cleaninig and Web Scrapping
+  - Data collection using web scrapping.
+  - More data exploration using pandas.
+  - Feature selection using sklearn.
+  - Basic data visualization using seaborn.
+  - Hands-on exercise: Load data using web scrapping exercise.
+  - Assignment: Practice example with web scrapping.
 
-    Feature selection: Methods to choose relevant features.
-    Feature encoding: Transforming categorical data into a numerical format.
-    Hands-on exercise: Feature selection and encoding using Pandas.
+- **Session 2**: Data Transformation
+  - Feature scaling: Standardization and normalization.
+  - Feature engineering: Creating new features from existing data.
+  - Feature encoding: Transforming categorical data into a numerical format.
+  - Basic data visualization using seaborn (cont).
+  - Hands-on exercise: Practical application of feature scaling and engineering.
+  - Homework assignment: Feature scaling and engineering exercises.
 
-Session 2 (Week 3, Session 2): Data Pre-processing - Feature Scaling and Engineering
-
-    Feature scaling: Standardization and normalization.
-    Feature engineering: Creating new features from existing data.
-    Practical application of feature scaling and engineering.
-    Homework assignment: Feature scaling and engineering exercises.
-### Week 4
+### Week 4: 
 
 ### Week 5
 
