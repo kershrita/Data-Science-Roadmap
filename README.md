@@ -65,31 +65,51 @@ After taking this course, you should:
 
 ## Plan Outline
 
-### Week 1: Introduction to Data Science and Data Collection
+### Week 1: Introduction to Data Science and Statistics
 - **Session 1**: Introduction to Data Science
   - Overview of data science as a field.
   - The data science pipeline and its stages.
-  - Basic concepts, key terms (data, wrangling..).
+  - Basic concepts, key terms.
 
-- **Session 2**: Retrieving data from spreadsheets and exploring it using Pandas
+- **Session 2**: Introduction to Statistics
+  - Definition of statistics and its importance in data science.
+  - The role of statistics in data analysis, interpretation, and decision-making.
+  - Types of data (Qualitative, Quantitive).
+  - Descriptive Statistics, Probability, Distributions ...
+  - Basic plots for visalizations to gain insights about data.
+  - Assignment: Statistics questions sheet.
+
+### Week 2: Data Collection and Data Pre-processing
+- **Session 3**: Retriev & Explore Data from Databases
   - Introduction to data collection.
-  - Basic data exploration and initial insights from the data.
-  - Hands-on exercise: Retrieve data from spreadsheets CSV with data exploration using Pandas.
-  - Assignment: ...
-
-### Week 2: Advanced Data Collection and Data Pre-processing
-- **Session 3**: Retrieving Data from Databases
   - Retrieving data from SQL databases using Python and libraries like sqlite.
+  - Basic data exploration and initial insights from the data using Pandas.
+  - Basic data visualization using matplotlib.
+  - Hands-on exercise: Retrieve data from spreadsheets CSV & SQL database with data exploration using Pandas.
+  - Assignment: Practice data retrieval from SQL database.
+
+- **Session 4**: Data Cleaning and Handling Missing Values
   - Retrieving data from NoSQL databases like MongoDB using Python.
   - Comparison of database retrieval techniques.
-
-- **Session 2**: Data Cleaning and Handling Missing Values
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values.
-  - Hands-on exercise: Cleaning and preprocessing data using Pandas.
-  - Assignment: ...
-### Week 3
+  - Basic data visualization using matplotlib (cont).
+  - Hands-on exercise: Retrieve data from NoSQL database with handling missing data.
+  - Assignment: Practice data retrieval from NoSQL database.
 
+### Week 3: Data Pre-processing and Web Scrapping
+- **Session 5**: Data Pre-processing - Feature Selection and Encoding
+
+    Feature selection: Methods to choose relevant features.
+    Feature encoding: Transforming categorical data into a numerical format.
+    Hands-on exercise: Feature selection and encoding using Pandas.
+
+Session 2 (Week 3, Session 2): Data Pre-processing - Feature Scaling and Engineering
+
+    Feature scaling: Standardization and normalization.
+    Feature engineering: Creating new features from existing data.
+    Practical application of feature scaling and engineering.
+    Homework assignment: Feature scaling and engineering exercises.
 ### Week 4
 
 ### Week 5
