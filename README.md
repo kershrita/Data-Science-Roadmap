@@ -38,11 +38,10 @@ After taking this course, you should:
 
 3. **Cleanse**:
     - **Data Cleaning**:
-      - Handling missing values (imputation)
-      - Removing duplicates
-      - Multiple fields in a single column
-      - Non-unique column headers
-      - Non-standardized data: column headers, names, dates ...
+      - Handling missing values (imputation).?
+      - Removing duplicates.
+      - Multiple fields in a single column.
+      - Non-unique column headers.
     - **Data Transformation**: Standardize data formats, units, or scales to ensure consistency.
     - **Data Balancing**: Oversampling and Undersampling to ensure consistency.
 
@@ -81,36 +80,37 @@ After taking this course, you should:
   - Basic plots for visalizations to gain insights about data.
   - Assignment: Statistics questions sheet.
 
-### Week 2: Data Collection, Data Pre-processing, and EDA
-- **Session 3**: Retrieve & Explore Data from Databases
+### Week 2: Data Collection and Data Cleaning
+- **Session 3**: SQL Data Collection and Initial Data Insights
   - Introduction to data collection & data integration.
-  - Retrieving data from SQL databases using Python and libraries like sqlite.
+  - Data collection from SQL databases using Python and libraries like sqlite.
   - Basic data exploration and initial insights from the data using Pandas.
   - Basic data visualization using matplotlib.
-  - Hands-on exercise: Retrieve data from spreadsheets CSV & SQL database with data exploration using Pandas.
+  - Hands-on exercise: Data collection from SQL database with data exploration using Pandas.
   - Assignment: Practice example with SQL.
 
-- **Session 4**: Data Cleaning and Handling Missing Values
-  - Retrieving data from NoSQL databases like MongoDB using Python.
+- **Session 4**: NoSQL Data Collection and Data Cleaning
+  - Data collection from NoSQL databases like MongoDB using Python.
   - The importance of data cleaning and handling missing data.
-  - Techniques for handling missing values.
+  - Techniques for handling missing values (imputation).
   - Basic data visualization using matplotlib (cont).
-  - Hands-on exercise: Retrieve data from NoSQL database with handling missing data.
+  - Data Transformation (handle columns distributions).
+  - Hands-on exercise: Data collection from NoSQL database with handling missing data.
   - Assignment: Practice example with NoSQL.
 
-### Week 3: Data Collection, Data Pre-processing, and EDA
-- **Session 5**: Data Cleaninig and Web Scrapping
+### Week 3: Data Preparation and Feature Engineering
+- **Session 5**: Web Data Scrapping and Transformation
   - Data collection using web scrapping.
-  - More data exploration using pandas.
-  - Feature selection using sklearn.
+  - More data cleaning, exploration using pandas.
   - Basic data visualization using seaborn.
-  - Hands-on exercise: Load data using web scrapping exercise.
+  - Data Transformation, check data formats, units, scales, etc...
+  - Hands-on exercise: Load data using web scrapping exercise with data transformation and feature engineering.
   - Assignment: Practice example with web scrapping.
 
-- **Session 2**: Data Transformation
-  - Feature scaling: Standardization and normalization.
-  - Feature engineering: Creating new features from existing data.
-  - Feature encoding: Transforming categorical data into a numerical format.
+- **Session 6**: Advanced Data Cleaning and Feature Engineering
+  - More data cleaning, exploration using pandas.
+  - Feature engineering, columns aggregation.
+  - Data balancing using oversampling and undersampling.
   - Basic data visualization using seaborn (cont).
   - Hands-on exercise: Practical application of feature scaling and engineering.
   - Homework assignment: Feature scaling and engineering exercises.
