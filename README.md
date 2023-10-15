@@ -26,30 +26,30 @@ After taking this course, you should:
 
 ## Topics Covered (updatable)
 
-### Data Collection:
-  - Retrieve data from:
-    - Spreadsheets.
-    - SQL & NoSQL databases.
-    - Web scraping.
+### Data Preparation
+1. **Gather**:
+    - **Data Collection:** SQL, NoSQL, and Web Scrapping.
+    - **Data Integration:** Merge data from various sources.
 
-### EDA and Statistical Thinking:
-  - EDA Techniques:
-    - How to gain insights through data exploration.
-    - Applying statistical reasoning.
-- Data Visualization:
-    - Using Matplotlib, Seaborn, and Plotly Express.
+2. **Discover**:
+    - **Exploratory Data Anlysis (EDA)**: Focus on libraries such as Matplotlib, Seaborn, and Plotly Express to create relevant plots for data exploration.
 
-### Data Pre-processing:
-  - Build a data pre-processing pipeline:
-    - Data cleaning
-    - Data Transformation:
-      - Feature selection
-      - Feature encoding
-      - Feature scaling
-      - Feature engineering
-    - Data splitting
-    - Data normalization
-    - Data balancing
+3. **Cleanse**:
+    - **Data Cleaning**:
+      - Handling missing values (imputation)
+      - Removing duplicates
+      - Multiple fields in a single column
+      - Non-unique column headers
+      - Non-standardized data: column headers, names, dates ...
+    - **Data Transformation**: Standardize data formats, units, or scales to ensure consistency.
+    - **Data Balancing**: Oversampling and Undersampling to ensure consistency.
+
+4. **Transform**:
+    - **Feature Engineering**: Create new features from existing ones, e.g., one-hot encoding, scaling, and dimensionality reduction.
+    - **Aggregation**: Summarize data at different granularities, e.g., aggregating sales data by day, week, or month.
+
+5. **Store**:
+    - **Data Warehouse**: Store cleaned in a data warehouse for efficient retrieval and analysis.
 
 ### Machine Learning:
   - Machine Learning Overview:
