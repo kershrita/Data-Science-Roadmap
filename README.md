@@ -89,35 +89,71 @@ After taking this course, you should:
   - Hands-on exercise: Data collection from SQL database with data exploration using Pandas.
   - Assignment: Practice example with SQL.
 
-- **Session 4**: NoSQL Data Collection and Data Cleaning
-  - Data collection from NoSQL databases like MongoDB using Python.
+- **Session 4**: SQL Data Refresher and Data Cleaning
+  - Recap on Data collection from SQL databases.
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values (imputation).
   - Basic data visualization using matplotlib (cont).
   - Data Transformation (handle columns distributions).
-  - Hands-on exercise: Data collection from NoSQL database with handling missing data.
-  - Assignment: Practice example with NoSQL.
+  - Hands-on exercise: Data collection from SQL database with handling missing data.
+  - Assignment: Practice example with SQL.
 
 ### Week 3: Data Preparation and Feature Engineering
-- **Session 5**: Web Data Scrapping and Transformation
-  - Data collection using web scrapping.
+- **Session 5**: NoSQL Data Collection and Transformation
+  - Data collection from NoSQL mongoDB database.
   - More data cleaning, exploration using pandas.
   - Basic data visualization using seaborn.
   - Data Transformation, check data formats, units, scales, etc...
-  - Hands-on exercise: Load data using web scrapping exercise with data transformation and feature engineering.
-  - Assignment: Practice example with web scrapping.
+  - Hands-on exercise: Data collection from SQL database with data transformation and feature engineering
+  - Assignment: Practice example with SQL.
 
 - **Session 6**: Advanced Data Cleaning and Feature Engineering
   - More data cleaning, exploration using pandas.
   - Feature engineering, columns aggregation.
   - Data balancing using oversampling and undersampling.
   - Basic data visualization using seaborn (cont).
+  - Hands-on exercise: Practical application of data cleaning and feature engineering.
+  - Assignment: ...
+
+
+### Week 4: Advanced Data Collection and Storage
+- **Session 7**: Web Data Scrapping and Visualization
+  - Data collection using web scrapping.
+  - More data cleaning, exploration using pandas.
+  - Basic data visualization using plotly express.
+  - Hands-on exercise: Load data using web scrapping exercise.
+  - Assignment: Practice example with web scrapping.
+
+- **Session 8**: Advanced Data Cleaning and Storage
+  - More data cleaning, exploration using pandas.
+  - Basic data visualization using plotly express (cont).
+  - Store data in data warehouse, e.g. CSV, database.
   - Hands-on exercise: Practical application of feature scaling and engineering.
-  - Homework assignment: Feature scaling and engineering exercises.
+  - Assignment: ..
 
-### Week 4: 
+### Week 5: Supervised Machine Learning
+- **Session 9**: Machine Learning Basics and Classification
+  - Introduction to machine learning and its types.
+  - Supervised learning: Concepts and applications.
+  - LazyPredict classifier for quick model selection.
+  - Hyperparameter tunning using gridsearch.unff
+  - Coarn.
+  - Assignment: ...
 
-### Week 5
+- **Session 10**: Advanced Data Cleaning and Storage
+  - More data cleaning, exploration using pandas.
+  - Basic data visualization using plotly express (cont).
+  - Store data in data warehouse, e.g. CSV, database.
+  - Hands-on exercise: Practical application of feature scaling and engineering.
+  - Assignment: ..
+
+
+
+Session 2 (Week 4, Session 2): Machine Learning Classification Algorithm
+
+    Focus on machine learning classification algorithms (e.g., Decision Trees, Random Forest).
+    Practical application of classification with a dataset.
+    Homework assignment: Implement a classification model.
 
 ### Week 6
 
