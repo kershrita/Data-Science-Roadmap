@@ -57,7 +57,7 @@ After taking this course, you should:
     - Supervised and Unsupervised Learning
     - LazyPredict, catboost, etc..
   - **Hyperparameter Tuning**: Grid Search and Optuna for optimizing model parameters
-  - **Ensemble Methods**: Bagging, Voting, Staking, etc..
+  - **Ensemble Methods**: Bagging, Boosting, Voting, Staking, etc..
   - **Model Evaluation**: Evaluation metrices for classification, regression, and clustering.
 
 ### Deployment and Communication:
@@ -136,27 +136,34 @@ After taking this course, you should:
   - Introduction to machine learning and its types.
   - Supervised learning: Concepts and applications.
   - LazyPredict classifier for quick model selection.
-  - Hyperparameter tunning using gridsearch.unff
-  - Coarn.
+  - Hyperparameter tunning using gridsearch.
+  - Communicating results and evaluation metrices for classification problem.
+  - Hands-on exercise: Implement a classification model using LazyPredict.
   - Assignment: ...
 
-- **Session 10**: Advanced Data Cleaning and Storage
-  - More data cleaning, exploration using pandas.
-  - Basic data visualization using plotly express (cont).
-  - Store data in data warehouse, e.g. CSV, database.
-  - Hands-on exercise: Practical application of feature scaling and engineering.
+- **Session 10**: Regression Problem
+  - LazyPredict regressor for quick model selection.
+  - Hyperparameter tunning using gridsearch.
+  - Communicating results and evaluation metrices for regression problem.
+  - Hands-on exercise: Implement a regression model using LazyPredict.
   - Assignment: ..
 
+### Week 6: Advanced Machine Learning Techniques
+- **Session 11**: Unsupervised Learning and Clustering
+  - Unsupervised learning: Concepts and applications.
+  - K-means clustering algorithm.
+  - PCA dimensionality reduction for plot clusters.
+  - Communicating results and evaluation metrices for clustering problem.
+  - Hands-on exercise: Implement a cluster model.
+  - Assignment: ...
 
-
-Session 2 (Week 4, Session 2): Machine Learning Classification Algorithm
-
-    Focus on machine learning classification algorithms (e.g., Decision Trees, Random Forest).
-    Practical application of classification with a dataset.
-    Homework assignment: Implement a classification model.
-
-### Week 6
-
+- **Session 12**: Ensemble Methods and Advanced Optimization
+  - Ensemble methods for classification and regression.
+  - Catboost algorithm for categorical data.
+  - Hyperparameter tunning using optuna.
+  - Hands-on exercise: Implement ensemble methods and optimize models.
+  - Assignment: ..
+  - 
 ### Week 7
 
 ### Week 8
