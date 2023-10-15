@@ -11,22 +11,24 @@
 Strongly recommend that students have experience with `Python`, ideally some background of `machine learning`, in `probability and statistics`, and `linear algebra`.
 
 If you do not have a background in these areas, take some resources to learn:
-- Python: ...
-- Probability and Statistics: ...
-- Linear Algebra: ...
+- **Python**: ...
+- **Machine Learning**: ...
+- **Probability and Statistics**: ...
+- **Linear Algebra**: ...
 
-## Learning Objectives
-
+## Learning Objectives (updatable)
 After taking this course, you should:
-- Understand the full data science pipeline, and be familiar with programming tools to accomplish the different portions.
-- Be able to collect data from structured/unstructured sources and store it using appropriate structure.
-- Know to explore and visualize your data.
-- Be able to analyze your data rigorously using a variety of statistical and machine learning approaches.
-- Be able to communicate your results with stackholders.
+
+- Understand the end-to-end data science pipeline, from data collection to model deployment.
+- Be familiar with the programming tools and libraries required to execute different phases of data science projects.
+- Demonstrate the ability to collect data from a variety of sources, including structured and unstructured data.
+- Know how to explore and visualize datasets, gaining insights into data distributions, patterns, and outliers.
+- Be proficient in conducting data analysis using a range of statistical and machine learning techniques.
+- Create data-driven reports and presentations that convey insights in a clear and compelling manner, addressing the needs of different audiences.
 
 ## Topics Covered (updatable)
 
-### Data Preparation
+### Data Preparation:
 1. **Gather**:
     - **Data Collection:** SQL, NoSQL, and Web Scrapping.
     - **Data Integration:** Merge data from various sources.
@@ -52,12 +54,12 @@ After taking this course, you should:
     - **Data Warehouse**: Store cleaned in a data warehouse for efficient retrieval and analysis.
 
 ### Machine Learning:
-  - Machine Learning Overview:
+  - **Machine Learning Overview**:
     - Supervised and Unsupervised Learning
     - LazyPredict, catboost, etc..
-  - Hyperparameter Tuning: Grid Search and Optuna for optimizing model parameters
-  - Ensemble Methods
-  - Model Evaluation
+  - **Hyperparameter Tuning**: Grid Search and Optuna for optimizing model parameters
+  - **Ensemble Methods**: Bagging, Voting, Staking, etc..
+  - **Model Evaluation**: Evaluation metrices for classification, regression, and clustering.
 
 ### Deployment and Communication:
   - Cover machine learning model deployment with options like cloud services (Microsoft Azure).
@@ -81,7 +83,7 @@ After taking this course, you should:
 
 ### Week 2: Data Collection, Data Pre-processing, and EDA
 - **Session 3**: Retrieve & Explore Data from Databases
-  - Introduction to data collection.
+  - Introduction to data collection & data integration.
   - Retrieving data from SQL databases using Python and libraries like sqlite.
   - Basic data exploration and initial insights from the data using Pandas.
   - Basic data visualization using matplotlib.
