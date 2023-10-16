@@ -90,7 +90,7 @@ After taking this course, you should:
   - Assignment: Practice example with SQL.
 
 - **Session 4**: SQL Data Refresher and Data Cleaning
-  - Recap on Data collection from SQL databases.
+  - Recap on data collection from SQL databases.
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values (imputation).
   - Basic data visualization using matplotlib (cont).
@@ -108,6 +108,7 @@ After taking this course, you should:
   - Assignment: Practice example with SQL.
 
 - **Session 6**: Advanced Data Cleaning and Feature Engineering
+  - Recap on data collection from NoSQL mongoDB database.
   - More data cleaning, exploration using pandas.
   - Feature engineering, columns aggregation.
   - Data balancing using oversampling and undersampling.
@@ -163,10 +164,33 @@ After taking this course, you should:
   - Hyperparameter tunning using optuna.
   - Hands-on exercise: Implement ensemble methods and optimize models.
   - Assignment: ..
-  - 
-### Week 7
 
-### Week 8
+### Week 7: Reviewing and Applying Previous Concepts
+- **Session 13**: Data Collection and Exploration
+    - Apply the chosen technique to gather a dataset.
+    - Perform exploratory data analysis (EDA) on the collected dataset using libraries like Matplotlib, Seaborn, or Plotly Express.
+    - Create meaningful visualizations to gain insights about the data.
+    - Discuss the challenges and discoveries during the data collection and exploration process.
+    - Assignment: ...
+
+- **Session 14**: Modeling and Evaluation
+    - Review machine learning algorithms previously covered.
+    - Build and evaluate machine learning models using the collected and explored data.
+    - Discuss the selection of appropriate evaluation metrics for the given problem.
+    - Fine-tune the models and apply optimization techniques, such as hyperparameter tuning.
+    - Discuss the model's performance and its implications for the dataset.
+    - Assignment: ...
+
+### Week 8: Deployment and Communication
+- **Session 15**: Presentation and Communication*
+    - Cover the essentials of presenting data-driven insights to stakeholders.
+    - Discuss the importance of clear and concise communication.
+    - Addressing the needs of different audiences, including technical and non-technical stakeholders.
+    - Showcase best practices for creating data-driven reports and presentations.
+    - Present student projects as examples of effective data communication.
+    - Assignment: ...
+
+- **Session 16**: ...
 
 ## Feedback
 
