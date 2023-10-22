@@ -70,6 +70,7 @@ After taking this course, you should:
 - **Session 1**: Introduction to Data Science
   - Overview of data science as a field.
   - The data science pipeline and its stages.
+  - Importance of data science and it's tools.
   - Basic concepts, key terms.
 
 - **Session 2**: Introduction to Statistics
