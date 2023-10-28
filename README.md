@@ -73,13 +73,13 @@ After taking this course, you should:
   - Importance of data science and it's tools.
   - Basic concepts, key terms.
 
-- **Session 2**: Introduction to Statistics
-  - Definition of statistics and its importance in data science.
-  - The role of statistics in data analysis, interpretation, and decision-making.
+- **Session 2**: Introduction to Statistics for Data Science
+  - Introduction to statistics and its importance in data science.
   - Types of data (Qualitative, Quantitive).
-  - Descriptive Statistics, Probability, Distributions ...
+  - Descriptive and inferential statistics.
   - Basic plots for visalizations to gain insights about data.
-  - Assignment: Statistics questions sheet.
+  - Make decision in data science based on statistics.
+  - Assignment: Practice example on descriptive statistics.
 
 ### Week 2: Data Collection and Data Cleaning
 - **Session 3**: SQL Data Collection and Initial Data Insights
