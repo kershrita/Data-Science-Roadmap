@@ -82,10 +82,9 @@ After taking this course, you should:
   - Assignment: Practice example on descriptive statistics.
 
 ### Week 2: Data Collection and Data Cleaning
-- **Session 3**: SQL Data Collection and Initial Data Insights
-  - Introduction to data collection & data integration.
-  - Data collection from SQL databases using Python and libraries like sqlite.
-  - Basic data exploration and initial insights from the data using Pandas.
+- **Session 3**: Diamonds with SQL
+  - Data collection from SQL database using SQLite Python.
+  - Basic data exploration using pandas.
   - Basic data visualization using matplotlib.
   - Hands-on exercise: Data collection from SQL database with data exploration using Pandas.
   - Assignment: Practice example with SQL.
