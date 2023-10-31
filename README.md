@@ -86,8 +86,8 @@ After taking this course, you should:
   - Data collection from SQL database using SQLite Python.
   - Basic data exploration using pandas.
   - Basic data visualization using matplotlib.
-  - Hands-on exercise: Data collection from SQL database with data exploration using Pandas.
-  - Assignment: Practice example with SQL.
+  - Hands-on exercise: Data exploration & visualization from diamonds database.
+  - Assignment: Data exploration & visualization from flights database.
 
 - **Session 4**: SQL Data Refresher and Data Cleaning
   - Recap on data collection from SQL databases.
