@@ -81,7 +81,7 @@ After taking this course, you should:
   - Make decision in data science based on statistics.
   - Assignment: Practice example on descriptive statistics.
 
-### Week 2: Data Collection and Data Cleaning
+### Week 2: Diamonds
 - **Session 3**: Diamonds with SQL
   - Data collection from SQL database using SQLite Python.
   - Basic data exploration using pandas.
@@ -89,14 +89,14 @@ After taking this course, you should:
   - Hands-on exercise: Data exploration & visualization from diamonds database.
   - Assignment: Data exploration & visualization from flights database.
 
-- **Session 4**: SQL Data Refresher and Data Cleaning
-  - Recap on data collection from SQL databases.
+- **Session 4**: Diamonds with pandas & matplotlib
+  - Recap on SQLite.
+  - More data exploration using pandas.
+  - More data visualization using matplotlib.
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values (imputation).
-  - Basic data visualization using matplotlib (cont).
-  - Data Transformation (handle columns distributions).
-  - Hands-on exercise: Data collection from SQL database with handling missing data.
-  - Assignment: Practice example with SQL.
+  - Hands-on exercise: Data exploration & visualization from platnets database.
+  - Assignment: ...
 
 ### Week 3: Data Preparation and Feature Engineering
 - **Session 5**: NoSQL Data Collection and Transformation
