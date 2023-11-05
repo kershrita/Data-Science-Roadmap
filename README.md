@@ -89,13 +89,12 @@ After taking this course, you should:
   - Hands-on exercise: Data exploration & visualization from diamonds database.
   - Assignment: Data exploration & visualization from flights database.
 
-- **Session 4**: Diamonds with pandas & matplotlib
-  - Recap on SQLite.
-  - More data exploration using pandas.
-  - More data visualization using matplotlib.
+- **Session 4**: Planets with pandas & matplotlib
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values (imputation).
-  - Hands-on exercise: Data exploration & visualization from platnets database.
+  - How to choose the right imputation method.
+  - More data exploration using pandas.
+  - Hands-on exercise: Data exploration & visualization from planets database.
   - Assignment: ...
 
 ### Week 3: Data Preparation and Feature Engineering
