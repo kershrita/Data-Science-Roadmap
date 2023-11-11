@@ -82,14 +82,14 @@ After taking this course, you should:
   - Assignment: Practice example on descriptive statistics.
 
 ### Week 2: Diamonds
-- **Session 3**: Diamonds with SQL
+- **Session 3**: Introduction to SQL
   - Data collection from SQL database using SQLite Python.
   - Basic data exploration using pandas.
   - Basic data visualization using matplotlib.
   - Hands-on exercise: Data exploration & visualization from diamonds database.
   - Assignment: Data exploration & visualization from flights database.
 
-- **Session 4**: Planets with pandas & matplotlib
+- **Session 4**: Handle Missing Value
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values (imputation).
   - How to choose the right imputation method.
@@ -97,14 +97,14 @@ After taking this course, you should:
   - Hands-on exercise: Data exploration & visualization from planets database.
   - Assignment: ...
 
-### Week 3: Data Preparation and Feature Engineering
-- **Session 5**: NoSQL Data Collection and Transformation
-  - Data collection from NoSQL mongoDB database.
-  - More data cleaning, exploration using pandas.
+### Week 3: Feature Engineering
+- **Session 5**: Data Transformation
+  - Handle columns distributions.
+  - Check data formats, units, scales, etc...
   - Basic data visualization using seaborn.
   - Data Transformation, check data formats, units, scales, etc...
-  - Hands-on exercise: Data collection from SQL database with data transformation and feature engineering
-  - Assignment: Practice example with SQL.
+  - Hands-on exercise: ...
+  - Assignment: ...
 
 - **Session 6**: Advanced Data Cleaning and Feature Engineering
   - Recap on data collection from NoSQL mongoDB database.
