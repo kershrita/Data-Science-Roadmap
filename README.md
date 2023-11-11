@@ -89,22 +89,21 @@ After taking this course, you should:
   - Hands-on exercise: Data exploration & visualization from diamonds database.
   - Assignment: Data exploration & visualization from flights database.
 
-- **Session 4**: Handle Missing Value
+- **Session 4**: Handle Missing Values
   - The importance of data cleaning and handling missing data.
   - Techniques for handling missing values (imputation).
   - How to choose the right imputation method.
   - More data exploration using pandas.
-  - Hands-on exercise: Data exploration & visualization from planets database.
+  - Hands-on exercise: Handle missing values from planets database.
   - Assignment: ...
 
 ### Week 3: Feature Engineering
 - **Session 5**: Data Transformation
   - Handle columns distributions.
-  - Check data formats, units, scales, etc...
-  - Feature engineering, columns aggregation.
+  - Check data formats, data splitting, units, scales, etc...
   - Data balancing using oversampling and undersampling.
   - Basic data visualization using seaborn.
-  - Hands-on exercise: ...
+  - Hands-on exercise: Apply data transformation on planets database.
   - Assignment: ...
 
 - **Session 6**: Feature Selection
