@@ -114,7 +114,7 @@ After taking this course, you should:
   - Hands-on exercise: ...
   - Assignment: ...
 
-
+`
 ### Week 4: Advanced Data Collection and Storage
 - **Session 7**: Web Data Scrapping and Visualization
   - Data collection using web scrapping.
@@ -129,18 +129,18 @@ After taking this course, you should:
   - Store data in data warehouse, e.g. CSV, database.
   - Hands-on exercise: Practical application of feature scaling and engineering.
   - Assignment: ..
+`
 
-### Week 5: Supervised Machine Learning
-- **Session 9**: Machine Learning Basics and Classification
-  - Introduction to machine learning and its types.
-  - Supervised learning: Concepts and applications.
-  - LazyPredict classifier for quick model selection.
-  - Hyperparameter tunning using gridsearch.
-  - Communicating results and evaluation metrices for classification problem.
-  - Hands-on exercise: Implement a classification model using LazyPredict.
+### Week 4: Machine Learning
+- **Session 7**: Machine Learning Overview
+  - Introduction to machine learning.
+  - Types of machine learning
+  - Distance-based, probability-based, and tree-based algorithms.
+  - Evaluation metrices to measure algorithm performance.
+  - Hands-on exercise: ...
   - Assignment: ...
 
-- **Session 10**: Regression Problem
+- **Session 8**: Regression Problem
   - LazyPredict regressor for quick model selection.
   - Hyperparameter tunning using gridsearch.
   - Communicating results and evaluation metrices for regression problem.
